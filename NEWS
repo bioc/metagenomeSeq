@@ -1,3 +1,5 @@
+version 1.12.1 (2016)
+	+ Fixed small miscalc of s2 in calcZeroComp.
 version 1.11.xx (2015)
 	+ Adding fitFeatureModel - a feature based zero-inflated log-normal model.
 	+ Added MRcoefs,MRtable,MRfulltable support for fitFeatureModel output.
