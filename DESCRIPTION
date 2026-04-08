@@ -1,7 +1,7 @@
 Package: metagenomeSeq
 Title: Statistical analysis for sparse high-throughput sequencing
-Version: 1.53.1
-Date: 2026-04-06
+Version: 1.53.2
+Date: 2026-04-08
 Author: Joseph Nathaniel Paulson, Nathan D. Olson, Domenick J. Braccia, 
     Justin Wagner, Hisham Talukder, Mihai Pop, Hector Corrada Bravo
 Maintainer: Joseph N. Paulson <josephpaulson@gmail.com>
@@ -28,7 +28,8 @@ Suggests:
     gss,
     testthat (>= 0.8),
     vegan,
-    IHW
+    IHW,
+    SparseArray
 Imports:
     parallel,
     matrixStats,
